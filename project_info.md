@@ -30,7 +30,7 @@ regions
 + Recommendations
 + Appendix: SQL queries used
 
-All of the questions asked and answered are documented in the pdf. 
+All of the questions explored and their solutions are documented in the pdf. 
 
 ## Tools used:
 PostgreSQL
